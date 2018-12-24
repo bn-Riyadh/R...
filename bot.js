@@ -7,8 +7,8 @@ A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-سلام عليكم 
-لو سمحت ممكن تدخل سيرفرى
+ 
+حياك الله خالي تنور ام السيرفر 
                                [ https://discord.gg/pfkQ5cw ] 
 الدعووة خاصة لك ... [ ${member}  ]
 **`) 
